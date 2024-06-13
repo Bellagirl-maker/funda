@@ -37,7 +37,7 @@ const Home = () => {
             <div className='card shadow'>
             <img src={service1} className='w-100 border-bottom' alt="services" />
               <div className='card-body'>
-              <h6>Services 1</h6>  
+              <h6>Photography</h6>  
               <div className='underline'></div>
               <p>Contrary to popular belief, Lorem Ipsum is not simply random text.</p>
               <Link to="/services" className='btn btn-link'>Read More</Link>
