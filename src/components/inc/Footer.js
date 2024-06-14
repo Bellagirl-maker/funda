@@ -18,6 +18,14 @@ const Footer = () => {
                     <div><Link to="/contact">Contact Us</Link></div>
                     <div><Link to="/Services">Services</Link></div>
                 </div>
+                <div className='col-md-4'>
+                    <h6>Contact Information</h6>
+                    <hr />
+                    <div><p className='text-white mb-1'>#8 Boulevard street</p></div>
+                    <div><p className='text-white mb-1'>Atlanta AT 478</p></div>
+                    <div><p className='text-white mb-1'>United States</p></div>
+                    <div><p className='text-white mb-1'>email@domain.com</p></div>
+                </div>
             </div>
         </div>
     </section>
