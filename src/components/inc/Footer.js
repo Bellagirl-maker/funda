@@ -9,7 +9,7 @@ const Footer = () => {
                 <div className='col-md-4'>
                     <h6>Company Information</h6>
                     <hr />
-                    <p>Lorem ipsum lorem lorem ipsum ipsum.Lorem ipsum lorem lorem ipsum ipsum.Lorem ipsum lorem lorem ipsum ipsum</p>
+                    <p className='text-white'>Lorem ipsum lorem lorem ipsum ipsum.Lorem ipsum lorem lorem ipsum ipsum.Lorem ipsum lorem lorem ipsum ipsum</p>
                 </div>
                 <div className='col-md-4'>
                     <h6>Quick Links</h6>
