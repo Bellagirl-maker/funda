@@ -3,7 +3,7 @@ import React from 'react'
 const Contact = () => {
   return (
   
-    
+<section className='section'>    
 <form class="row g-3">
   <div class="col-md-6">
     <label for="inputEmail4" class="form-label">Email</label>
@@ -48,6 +48,7 @@ const Contact = () => {
     <button type="submit" class="btn btn-primary">Sign in</button>
   </div>
 </form>
+</section>
 
   )
 }
