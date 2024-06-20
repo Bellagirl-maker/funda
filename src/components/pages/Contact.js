@@ -2,8 +2,9 @@ import React from 'react'
 
 const Contact = () => {
   return (
-    <div className="container">
-     <form class="row g-3">
+  
+    
+<form class="row g-3">
   <div class="col-md-6">
     <label for="inputEmail4" class="form-label">Email</label>
     <input type="email" class="form-control" id="inputEmail4" />
@@ -47,7 +48,7 @@ const Contact = () => {
     <button type="submit" class="btn btn-primary">Sign in</button>
   </div>
 </form>
-    </div>
+
   )
 }
 
