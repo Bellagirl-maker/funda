@@ -3,7 +3,7 @@ import React from 'react';
 const Contact = () => {
   return (
     <section className='section'>
-      <div className="container"> {/* Add a container div */}
+      <div className="container p-4"> 
         <form className="row g-3">
           <div className="col-md-6">
             <label htmlFor="inputEmail4" className="form-label">Email</label>
