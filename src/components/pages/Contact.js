@@ -37,15 +37,15 @@ const Contact = () => {
     <input type="text" className="form-control" id="inputZip" />
   </div>
   <div className="col-12">
-    <div class="form-check">
-      <input class="form-check-input" type="checkbox" id="gridCheck" />
-      <label class="form-check-label" for="gridCheck">
+    <div className="form-check">
+      <input className="form-check-input" type="checkbox" id="gridCheck" />
+      <label className="form-check-label" for="gridCheck">
         Check me out
       </label>
     </div>
   </div>
-  <div class="col-12">
-    <button type="submit" class="btn btn-primary">Sign in</button>
+  <div className="col-12">
+    <button type="submit" className="btn btn-primary">Sign in</button>
   </div>
 </form>
 </section>
