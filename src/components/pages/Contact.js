@@ -32,11 +32,11 @@ const Contact = () => {
       <option>...</option>
     </select>
   </div>
-  <div class="col-md-2">
-    <label for="inputZip" class="form-label">Zip</label>
-    <input type="text" class="form-control" id="inputZip" />
+  <div className="col-md-2">
+    <label for="inputZip" className="form-label">Zip</label>
+    <input type="text" className="form-control" id="inputZip" />
   </div>
-  <div class="col-12">
+  <div className="col-12">
     <div class="form-check">
       <input class="form-check-input" type="checkbox" id="gridCheck" />
       <label class="form-check-label" for="gridCheck">
