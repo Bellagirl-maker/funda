@@ -6,8 +6,8 @@ const About = () => {
       <div className="card shadow">
         <div className="card-body">
         <button className="btn btn-danger">About Us</button>
-          </div>   
-          </div>  
+        </div>   
+      </div>  
     </div>
   )
 }
